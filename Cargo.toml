@@ -33,6 +33,8 @@ members = [
     "examples/erc20_gas",
     "examples/my_evm",
     "examples/custom_opcodes",
+    #Test
+    "executor"
 ]
 resolver = "2"
 default-members = ["crates/revm"]
