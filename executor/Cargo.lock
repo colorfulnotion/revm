@@ -1309,6 +1309,7 @@ dependencies = [
 name = "executor"
 version = "0.1.0"
 dependencies = [
+ "alloy-primitives",
  "bincode",
  "rsp-client-executor",
 ]
