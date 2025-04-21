@@ -34,7 +34,8 @@ members = [
     "examples/my_evm",
     "examples/custom_opcodes",
     #Test
-    #"executor"
+    "examples/transfer",
+    "examples/execute_opcodes",
 ]
 
 exclude = [
